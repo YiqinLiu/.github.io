@@ -1,7 +1,7 @@
 ---
 title: "Hypothalamus-habenula potentiation encodes chronic stress experience and drives depression onset"
 collection: Publications
-category: Journal Articles
+category: manuscripts
 permalink: 'https://www.cell.com/neuron/fulltext/S0896-6273(22)00047-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322000472%3Fshowall%3Dtrue'
 excerpt: 'This paper is about XXXXXXX.'
 date: 2022-04-20
