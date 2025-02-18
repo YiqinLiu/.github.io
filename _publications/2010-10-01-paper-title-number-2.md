@@ -4,7 +4,7 @@ collection: Publications
 category: Journal Articles
 permalink: 'https://www.cell.com/neuron/abstract/S0896-6273(24)00660-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324006603%3Fshowall%3Dtrue'
 excerpt: 'This paper is about the neuronal ensembles engaged in the pathogenesis of stress-induced depression.'
-date: 2024-10
+date: 2024-10-10
 venue: 'Neuron'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
