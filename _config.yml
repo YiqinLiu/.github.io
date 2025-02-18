@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiqin Liu （留怡勤）"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Phd candidate in Neurobiology"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
@@ -33,13 +33,13 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-0684-0614"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yiqin Liu"
+  # researchgate     : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
