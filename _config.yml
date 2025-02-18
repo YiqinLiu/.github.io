@@ -23,8 +23,8 @@ repository               : "https://yiqinliu.github.io/.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yiqin Liu （留怡勤）"
-  pronouns         : "she/her"  
+  name             : "留怡勤 Yiqin Liu"
+ # pronouns         : "she/her"  
   bio              : "Phd candidate in Neurobiology"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
