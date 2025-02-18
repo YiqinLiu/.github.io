@@ -1,3 +1,4 @@
+---
 title: "A small population of stress-responsive neurons in the hypothalamus-habenula circuit mediates development of depression-like behavior in mice"
 collection: publications
 category: manuscripts
